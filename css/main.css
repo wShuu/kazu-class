@@ -1,0 +1,25 @@
+html,
+body {
+    height: 100%;
+}
+
+.container-flex {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+.content-wrap {
+    flex: 1;
+}
+
+.bg-red {
+    background-color: red;
+}
+
+.bg-red .navbar-brand,
+.bg-red .navbar-toggler,
+.bg-red .btn,
+.footer-text {
+    color: white;
+}

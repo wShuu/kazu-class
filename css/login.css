@@ -1,0 +1,16 @@
+.bg-orange {
+    background-color: orange;
+}
+
+.btn-red {
+    background-color: red;
+    color: white;
+}
+
+.form-signin {
+    width: 100%;
+    max-width: 400px;
+    padding: 15px;
+    margin: auto;
+    border-radius: 5px;
+}
